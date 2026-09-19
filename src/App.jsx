@@ -16,7 +16,7 @@ const App = () => {
 
 </Routes>
 
-      <Home/>
+      {/* <Home/> */}
     </div>
   )
 }
